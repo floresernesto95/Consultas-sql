@@ -1,5 +1,9 @@
 # Proyecto de Gestión de Inventario de Repuestos Automotrices
 
+<p align="center">
+  <img src="https://github.com/floresernesto95/Images/blob/main/project-graph-rag-1.png"/>
+</p>
+
 ## Descripción del Proyecto
 
 Este proyecto demuestra mis habilidades avanzadas en SQL a través de la implementación de una base de datos compleja para la gestión de inventario de repuestos automotrices. La base de datos "DesafioDataEntry" incluye tablas interrelacionadas que manejan información sobre repuestos, proveedores, actualizaciones de precios y marcas.
